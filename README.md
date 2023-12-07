@@ -48,7 +48,7 @@ sudo chmod +x ./$[navigate_dir]
 
 **Contributing:**
 
-This repository is only run in the linux distribution.You can contribute to this repository by following CONTRIBUTING.md.
+This repository is only run in the linux distribution.You can contribute to this repository by following [CONTRIBUTING.md](CONTRIBUTING.md).
 
 **License:**
 
